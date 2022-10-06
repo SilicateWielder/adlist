@@ -5,6 +5,8 @@
 # Pornographic advertising
 hw-cdn2.ang-content.com
 static.javhd.com
+cdn.stats-dss1956-serving.com
+
 
 # Telemetry
 
