@@ -7,7 +7,8 @@ hw-cdn2.ang-content.com
 static.javhd.com
 cdn.stats-dss1956-serving.com
 cdn.banhq.com
-
+go.xlivrdr.com
+creative.xlivrdr.com
 
 # Telemetry
 
