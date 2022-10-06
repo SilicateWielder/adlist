@@ -1,0 +1,10 @@
+# A personal blocklist by SilicateWielder
+
+# Advertising
+
+# Pornographic advertising
+hw-cdn2.ang-content.com
+
+# Telemetry
+
+# Website banlist
