@@ -9,6 +9,7 @@ cdn.stats-dss1956-serving.com
 cdn.banhq.com
 go.xlivrdr.com
 creative.xlivrdr.com
+public-media-cdn.blackedraw.com
 
 # Telemetry
 
